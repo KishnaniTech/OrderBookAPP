@@ -18,7 +18,3 @@ As mentioned earlier, this application is still in its early stages and only has
 ## Contributing
 
 Contributions to this project are welcome. If you find any bugs or issues with the application, please open a new issue in the GitHub repository. If you have any suggestions for improving the application, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.

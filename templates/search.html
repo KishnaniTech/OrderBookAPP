@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Search Tailoring Database</title>
+</head>
+<body>
+  <h1>Search Tailoring Database</h1>
+  <form action="/search" method="POST">
+    <label for="search_term">Search term:</label>
+    <input type="text" id="search_term" name="search_term" required>
+    <br>
+    <label for="search_type">Search by:</label>
+    <select id="search_type" name="search_type">
+      <option value="name">Name</option>
+      <option value="order_number">Order Number</option>
+    </select>
+    <br>
+    <button type="submit">Search</button>
+  </form>
+</body>
+</html>
